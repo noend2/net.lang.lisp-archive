@@ -1,0 +1,4 @@
+* net.lang.lisp-archive
+
+The archive contains messages from 1982 to 1986. For newer messages
+see https://github.com/noend2/comp.lang.lisp-archive.
